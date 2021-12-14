@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/https//Jithinppp.github.io/simple-react-add-user/static/css/main.a11abcb0.chunk.css",
-    "main.js": "/https//Jithinppp.github.io/simple-react-add-user/static/js/main.34da94f2.chunk.js",
-    "main.js.map": "/https//Jithinppp.github.io/simple-react-add-user/static/js/main.34da94f2.chunk.js.map",
-    "runtime-main.js": "/https//Jithinppp.github.io/simple-react-add-user/static/js/runtime-main.253247ae.js",
-    "runtime-main.js.map": "/https//Jithinppp.github.io/simple-react-add-user/static/js/runtime-main.253247ae.js.map",
-    "static/js/2.0ee566a1.chunk.js": "/https//Jithinppp.github.io/simple-react-add-user/static/js/2.0ee566a1.chunk.js",
-    "static/js/2.0ee566a1.chunk.js.map": "/https//Jithinppp.github.io/simple-react-add-user/static/js/2.0ee566a1.chunk.js.map",
-    "index.html": "/https//Jithinppp.github.io/simple-react-add-user/index.html",
-    "static/css/main.a11abcb0.chunk.css.map": "/https//Jithinppp.github.io/simple-react-add-user/static/css/main.a11abcb0.chunk.css.map",
-    "static/js/2.0ee566a1.chunk.js.LICENSE.txt": "/https//Jithinppp.github.io/simple-react-add-user/static/js/2.0ee566a1.chunk.js.LICENSE.txt"
+    "main.css": "/https//Jithinppp.github.io/add-user-app/static/css/main.a11abcb0.chunk.css",
+    "main.js": "/https//Jithinppp.github.io/add-user-app/static/js/main.34da94f2.chunk.js",
+    "main.js.map": "/https//Jithinppp.github.io/add-user-app/static/js/main.34da94f2.chunk.js.map",
+    "runtime-main.js": "/https//Jithinppp.github.io/add-user-app/static/js/runtime-main.43e0652a.js",
+    "runtime-main.js.map": "/https//Jithinppp.github.io/add-user-app/static/js/runtime-main.43e0652a.js.map",
+    "static/js/2.8a809f8b.chunk.js": "/https//Jithinppp.github.io/add-user-app/static/js/2.8a809f8b.chunk.js",
+    "static/js/2.8a809f8b.chunk.js.map": "/https//Jithinppp.github.io/add-user-app/static/js/2.8a809f8b.chunk.js.map",
+    "index.html": "/https//Jithinppp.github.io/add-user-app/index.html",
+    "static/css/main.a11abcb0.chunk.css.map": "/https//Jithinppp.github.io/add-user-app/static/css/main.a11abcb0.chunk.css.map",
+    "static/js/2.8a809f8b.chunk.js.LICENSE.txt": "/https//Jithinppp.github.io/add-user-app/static/js/2.8a809f8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.253247ae.js",
-    "static/js/2.0ee566a1.chunk.js",
+    "static/js/runtime-main.43e0652a.js",
+    "static/js/2.8a809f8b.chunk.js",
     "static/css/main.a11abcb0.chunk.css",
     "static/js/main.34da94f2.chunk.js"
   ]
